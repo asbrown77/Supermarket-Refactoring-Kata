@@ -15,7 +15,7 @@ namespace Supermarket.UnitTests
             catalog.AddProduct(apples, 1.99);
 
             var teller = new Teller(catalog);
-            teller.AddSpecialOffer(SpecialOfferType.TenPercentDiscount, toothbrush,10.0);
+            teller.AddSpecialOffer(SpecialOfferType.TenPercentDiscount, toothbrush, 10.0);
 
             var cart = new ShoppingCart();
             cart.AddItem(apples, 2.5);
