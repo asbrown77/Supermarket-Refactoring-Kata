@@ -30,4 +30,4 @@ Currently the implementation currently able to handle the following scenarios
 
 AND There is only ONE simply test.
 
-The code is not great and doesnt follow any clean code & design principles, but we need to clean up in manner to be highly extendable and maintable and acceptive to change.  New special deals are needed and coming soon by the client. Although yet to be decided, when are decided they need to be added as quickly as possible to allow the clien to be competitive .
+The code is not great and doesnt follow any clean code & design principles, but we need to clean up in manner to be highly extendable and maintable and acceptive to change.  New special deals are needed and coming soon by the client. Although yet to be decided, when are they need to be added as quickly as possible to allow the clien to be competitive .
